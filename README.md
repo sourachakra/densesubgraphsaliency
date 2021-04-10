@@ -16,7 +16,6 @@ Compactness finding procedure from:
 
 J. S. Kim, J. Y. Sim and C. S. Kim, "Multiscale Saliency Detection Using Random Walk with Restart", IEEE Trans. Circuits Syst. Video Techn., vol 24, no. 2, pp. 198-210, Feb. 2014 
 
-============================================================
 Please cite the following paper when you report the results using the code:
 
 Souradeep Chakraborty and Pabitra Mitra, "A dense subgraph based algorithm for compact salient image region detection," Computer Vision and Image Understanding, 2015.
