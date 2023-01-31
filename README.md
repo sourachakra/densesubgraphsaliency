@@ -1,4 +1,4 @@
-# densesubgraphsaliency
+# Dense Sub-graph Saliency
 Dense subgraph based saliency
 
 This is the MATLAB implementation of the saliency detection method implemented in the paper: 
