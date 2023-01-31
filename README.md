@@ -1,4 +1,4 @@
-# Dense Sub-graph Saliency
+# A dense subgraph based algorithm for compact salient image region detection
 Dense subgraph based saliency
 
 This is the MATLAB implementation of the saliency detection method implemented in the paper: 
